@@ -310,7 +310,7 @@ if(answer == 2){
     return 0;
   }
   else if(answer2 == 2){
-    std::cout << "Eventhough You Won the Race ...No one appreciated You and declared Mr.Turtle gave People's Choice Award and You were Ignored\nGAME END\nYOU LOSE";
+    std::cout << "Eventhough You Won the Race ...No one appreciated You and  Mr.Turtle was given People's Choice Award and You were Ignored\nGAME END\nYOU LOSE";
     std::cout << "===========================\n";
     check = true;
     return 0;
